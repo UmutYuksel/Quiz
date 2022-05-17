@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "526767414640",
+    "firebase_url": "https://quiz-f3dca-default-rtdb.firebaseio.com",
+    "project_id": "quiz-f3dca",
+    "storage_bucket": "quiz-f3dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526767414640:android:e5fd21236e28b8b606c3b5",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526767414640-bctfco0sg58eu870so15ltlgu79hhsh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2TLniv3NkOXhviLxdd1qoxm_znBatfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526767414640-bctfco0sg58eu870so15ltlgu79hhsh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

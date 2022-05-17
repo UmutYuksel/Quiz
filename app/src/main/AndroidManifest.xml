@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quiz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.quiz.ResetPasswordActivity" />
+        <activity android:name="com.example.quiz.SignupActivity" />
+        <activity android:name="com.example.quiz.QuestionDetailsActivity" />
+        <activity android:name="com.example.quiz.QuestionsActivity" />
+        <activity android:name="com.example.quiz.SetsActivity" />
+        <activity android:name="com.example.quiz.CategoryActivity" />
+        <activity android:name="com.example.quiz.QuestionActivity" />
+        <activity android:name="com.example.quiz.StdSetsActivity" />
+        <activity android:name="com.example.quiz.StdCategoryActivity" />
+        <activity android:name="com.example.quiz.SplashActivity" />
+        <activity android:name="com.example.quiz.ScoreActivity" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+
+
+
+
+        </activity>
+    </application>
+
+</manifest>
